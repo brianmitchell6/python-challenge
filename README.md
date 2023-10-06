@@ -7,4 +7,4 @@ Used Ben Brown's solution posted on Slack to find the path.
 
 Consulted geeksforgeeks.org quite a bit while debugging.  Did not copy code, but explanations and examples provided templates for some of my code.  Mostly with file reading and writing. 
 
-Output file for both PyBank and PyPoll is result.tx in analysis folder. 
+Output file for both PyBank and PyPoll is result.txt in analysis/ folder. 
